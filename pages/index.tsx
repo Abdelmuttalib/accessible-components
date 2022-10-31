@@ -35,7 +35,7 @@ export function Modal() {
       <button
         type="button"
         onClick={openModal}
-        className="rounded-md bg-black  px-4 py-2 font-semibold text-white hover:bg-opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
+        className="rounded-md bg-black px-4 py-2 font-semibold text-white hover:bg-opacity-80 focus:outline-blue-700 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
       >
         Open modal
       </button>
